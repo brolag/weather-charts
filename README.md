@@ -11,7 +11,7 @@ Install dependencies, then start the gulp process with the following:
 
 ```
   > git clone git@github.com:brolag/weather-charts.git
-  > cd YouTubeSearch
+  > cd weather-charts
   > npm install
   > npm start
 ```
